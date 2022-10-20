@@ -13,6 +13,9 @@ export default function Navbar() {
         <Link href="/profile">
           <a>본인 소개</a>
         </Link>
+        <Link href="/coins">
+          <a>코인</a>
+        </Link>
         <Link href="/profile/contact">
           <a>연락</a>
         </Link>
